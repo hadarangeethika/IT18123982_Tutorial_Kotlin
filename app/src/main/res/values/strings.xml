@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KotlinProjrct</string>
+    <string name="title">Enter your Year of Birth :</string>
+
+    <string name="label2">Age : 0</string>
+    <string name="onSubmit">Submit</string>
+</resources>
